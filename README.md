@@ -2,7 +2,7 @@
 git clone https://github.com/erikcavalcante/mba3_docker.git
 
 # Navegue até o diretório da atividade
-cd mba3_docker/atividade-3
+cd mba3_docker
 
 #Inicie o terraform no projeto
 docker-compose up
